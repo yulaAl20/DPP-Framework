@@ -15,6 +15,7 @@
 # appendix. Pinning versions that were never resolved on your platform would
 # be a reproducibility claim you cannot support.
 
+streamlit>=1.50,<2
 fastapi>=0.110,<0.116
 uvicorn>=0.29,<0.31
 pydantic>=2.6,<3
